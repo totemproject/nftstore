@@ -1,7 +1,7 @@
 { 
   "name": "Spinning Top",
   "tokenID": 2,
-  "description": "Totem",
+  "description": "Spinning tractricoid top. You should spin the top and it topples over, you are awake; if it continues to spin, then you are still dreaming.",
   "role": "Extractor",
   "image": "https://raw.githubusercontent.com/totemproject/nftstore/main/id_2.png"
 }
