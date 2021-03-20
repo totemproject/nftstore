@@ -1,5 +1,7 @@
 { 
-  "name": "Totem",
-  "description": "id_1 Totem, Spinning top",
+  "name": "Spinning Top",
+  "tokenID": 1,
+  "description": "Totem",
+  "role": "Extractor",
   "image": "https://raw.githubusercontent.com/totemproject/nftstore/main/id_1.png"
 }
