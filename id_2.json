@@ -1,7 +1,7 @@
 { 
-  "name": "Spinning Top",
+  "name": "Bishop chess piece",
   "tokenID": 2,
-  "description": "Spinning tractricoid top. You should spin the top and it topples over, you are awake; if it continues to spin, then you are still dreaming.",
-  "role": "Extractor",
+  "description": "You deliberately hollows it out to alter its weight and center of gravity, so that only you can know the exact weight and feel of your totem",
+  "role": "Architect",
   "image": "https://raw.githubusercontent.com/totemproject/nftstore/main/id_2.png"
 }
