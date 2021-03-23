@@ -1,7 +1,7 @@
 { 
-  "name": "Spinning Top",
+  "name": "Red die",
   "tokenID": 3,
-  "description": "You should spin the top and it topples over, you are awake; if it continues to spin, then you are still dreaming.",
-  "role": "Extractor",
+  "description": "The purpose of the loaded die is to make one side heavier than the rest; therefore when rolled the heavy side will flip down and only the opposite side can face up. Should the upright side of the die be different than the original, you will know you are dreaming.",
+  "role": "Point man",
   "image": "https://raw.githubusercontent.com/totemproject/nftstore/main/id_3.png"
 }
