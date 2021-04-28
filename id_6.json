@@ -1,7 +1,7 @@
 { 
-  "name": "Unknown",
+  "name": "Invisibility cloak",
   "tokenID": 6,
-  "description": "The data of the totem will be visible after sale",
-  "role": "Unknown",
+  "description": "As well as making data invisible to the naked eye, this totem also conceals its owner from others",
+  "role": "Invisible Man",
   "image": "https://raw.githubusercontent.com/totemproject/nftstore/main/id_6.png"
 }
