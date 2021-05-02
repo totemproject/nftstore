@@ -1,0 +1,7 @@
+{ 
+  "name": "Army token",
+  "tokenID": 9,
+  "description": "Military charm. Inspired by the army identity pendants",
+  "role": "Point man",
+  "image": "https://raw.githubusercontent.com/totemproject/nftstore/main/id_9.png"
+}
