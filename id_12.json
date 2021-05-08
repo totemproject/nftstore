@@ -1,0 +1,7 @@
+{ 
+  "name": "Lucky horseshoe",
+  "tokenID": 12,
+  "description": "Horseshoes have long been considered lucky. They were originally made of iron, a material that was believed to ward off evil spirits, and traditionally were held in place with seven nails, seven being the luckiest number.",
+  "role": "Extractor",
+  "image": "https://raw.githubusercontent.com/totemproject/nftstore/main/id_12.png"
+}
