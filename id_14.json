@@ -1,0 +1,7 @@
+{ 
+  "name": "Puzzle",
+  "tokenID": 14,
+  "description": "In a puzzle, the solver is expected to put pieces together in a logical way, in order to arrive at the correct or fun solution of the puzzle",
+  "role": "Architect",
+  "image": "https://raw.githubusercontent.com/totemproject/nftstore/main/id_14.png"
+}
