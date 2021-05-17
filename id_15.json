@@ -1,0 +1,7 @@
+{ 
+  "name": "Key",
+  "tokenID": 15,
+  "description": "A piece of metal that has been cut into a special shape and is used for opening or closing a lock",
+  "role": "Extractor",
+  "image": "https://raw.githubusercontent.com/totemproject/nftstore/main/id_15.png"
+}
