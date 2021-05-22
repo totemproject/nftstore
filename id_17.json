@@ -1,0 +1,7 @@
+{ 
+  "name": "Random generator",
+  "tokenID": 17,
+  "description": "According to research done by MIT the number 17 is the most common randomly chosen number between 1 and 20",
+  "role": "Extractor",
+  "image": "https://raw.githubusercontent.com/totemproject/nftstore/main/id_17.png"
+}
