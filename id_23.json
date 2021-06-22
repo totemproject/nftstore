@@ -1,6 +1,7 @@
 { 
   "name": "Human genome",
   "tokenID": 23,
-  "description": "The human genome is a complete set of nucleic acid sequences for humans, encoded as DNA within the 23 chromosome pairs"
+  "description": "The human genome is a complete set of nucleic acid sequences for humans, encoded as DNA within the 23 chromosome pairs",
+  "role": "Architect",
   "image": "https://raw.githubusercontent.com/totemproject/nftstore/main/id_23.png"
 }
